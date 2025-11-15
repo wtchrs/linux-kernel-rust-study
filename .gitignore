@@ -1,0 +1,7 @@
+linux-build/
+busybox-build/
+
+initramfs/
+initramfs.cpio.gz
+
+kernel_module

@@ -1,0 +1,8 @@
+[submodule "busybox"]
+	path = busybox
+	url = https://github.com/mirror/busybox
+	branch = 1_36_stable
+[submodule "linux"]
+	path = linux
+	url = https://github.com/torvalds/linux
+	branch = v6.17
