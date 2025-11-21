@@ -1,0 +1,14 @@
+rust-project.json
+
+
+# Kernel module build artifacts
+*.o
+*.ko
+*.mod
+*.mod.c
+*.symvers
+*.order
+*.cmd
+*.d
+*.tmp_versions/
+modules.order

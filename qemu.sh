@@ -9,4 +9,4 @@ qemu-system-x86_64 \
     -initrd initramfs.cpio.gz \
     -nographic \
     -append "console=ttyS0" \
-    -virtfs local,path=kernel_module,security_model=none,mount_tag=rust_modules
+    -virtfs local,path=kernel_module,security_model=none,mount_tag=kernel_modules
