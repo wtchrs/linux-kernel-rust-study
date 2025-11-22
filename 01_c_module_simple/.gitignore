@@ -11,5 +11,6 @@ compile_commands.json
 *.order
 *.cmd
 *.d
+*.i
 *.tmp_versions/
 modules.order
